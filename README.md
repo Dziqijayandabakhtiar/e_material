@@ -1,4 +1,4 @@
-Aplikasi Permintaan dan Persetujuan Material Teknik
+Aplikasi Permintaan dan Persetujuan Material di BPBD Prov Jateng
 =========
 
 Penjelasan
@@ -29,5 +29,5 @@ Cara Instal
 
 Copyright & License
 -------
-Copyright (c) 2017 Slamet Riky
+Copyright (c) 2020 Dziqi Jayanda Bakhtiar
 [GNU Public License](http://www.gnu.org/licenses/gpl-3.0.html)
